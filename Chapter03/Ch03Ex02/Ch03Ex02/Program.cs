@@ -17,7 +17,7 @@ namespace Ch03Ex02
             secondNumber = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine($"The sum of {firstNumber} and {secondNumber} is " +
                           $"{firstNumber + secondNumber}.");
-            Console.WriteLine($"The result of subtracting {secondNumber} from " +
+            Console.WriteLine($"The result of subtracting {secondNumber} fromm " +
                           $"{firstNumber} is {firstNumber - secondNumber}.");
             Console.WriteLine($"The product of {firstNumber} and {secondNumber} " +
                           $"is {firstNumber * secondNumber}.");
